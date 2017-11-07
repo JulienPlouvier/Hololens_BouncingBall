@@ -1,0 +1,2 @@
+C:\Users\jpl3628\Documents\Projets\Unity_Test1\Bouncing Ball\App\Bouncing Ball\Bouncing Ball.csproj;x86
+C:\Users\jpl3628\Documents\Projets\Unity_Test1\Bouncing Ball\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
